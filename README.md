@@ -1,5 +1,5 @@
 # GFC Doggos Members
 
-##Labrador Retriever
+## Labrador Retriever
 Jacky
 
