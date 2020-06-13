@@ -1,2 +1,5 @@
-# gfc-doggos
-A list of all the furry Doggos at GFC
+# GFC Doggos Members
+
+##Labrador Retriever
+Jacky
+
