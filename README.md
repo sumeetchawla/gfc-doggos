@@ -1,28 +1,28 @@
 # GFC Doggos Members
 
-## Labrador Retriever
+### Labrador Retriever
 
-Jacky
-Buddy
-Jimmy
-Moon Moon
-Tyson
-Rio
+* Jacky
+* Buddy (7th July)
+* Jimmy
+* Moon Moon
+* Tyson
+* Rio
 
-## Golden Retriever
+### Golden Retriever
 
-Lucy
-Bozo
+* Lucy (12th June)
+* Bozo
 
-## Shih Tzu
+### Shih Tzu
 
-Cookie
-Burfy
+* Cookie
+* Burfy
 
 ## Lhasa Apso
 
-Whiskey
+* Whiskey
 
 ## Husky
 
-Kazuki
+* Kazuki
