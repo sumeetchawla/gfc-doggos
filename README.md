@@ -19,10 +19,10 @@
 * Cookie
 * Burfy
 
-## Lhasa Apso
+### Lhasa Apso
 
 * Whiskey
 
-## Husky
+### Husky
 
 * Kazuki
